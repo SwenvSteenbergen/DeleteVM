@@ -24,5 +24,6 @@
       resource_pool: i513441
       datastore: NIM01-I3-DB
       folder: /_Courses/i3-DB01/i513441/Automation
+      force: yes
       state: absent
 
