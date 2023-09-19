@@ -25,5 +25,4 @@
       datastore: NIM01-I3-DB
       folder: /_Courses/i3-DB01/i513441/Automation
       state: absent
-      force: yes
 
